@@ -7,7 +7,7 @@
 如果将 MB-280T02 作为 MB-280 系列 4 门课程的一部分进行教学，则可以找到以下其他 GitHub 存储库：
 - [MB-280T01：配置 Dynamics 365 客户体验模型驱动应用](https://github.com/MicrosoftLearning/MB-280T01-Configure-Dynamics-365-customer-experience-model-driven-apps)
 - [MB-280T03：使用 Dynamics 365 Customer Insights 设计和交付强大的客户体验](https://github.com/MicrosoftLearning/MB-280T03-Design-and-deliver-powerful-customer-experiences-with-Dynamics-365-Customer-Insights)
-- [MB-280T04：配置Dynamics 365客户体验解决方案](https://github.com/MicrosoftLearning/MB-280T04-Configure-a-Dynamics-365-customer-experience-solution)
+- [MB-280T04：配置 Dynamics 365 客户体验解决方案](https://github.com/MicrosoftLearning/MB-280T04-Configure-a-Dynamics-365-customer-experience-solution)
 
 
 ## MCT 的信息
