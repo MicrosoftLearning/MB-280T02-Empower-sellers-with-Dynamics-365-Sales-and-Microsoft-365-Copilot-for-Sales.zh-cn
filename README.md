@@ -1,3 +1,11 @@
+#README
+
+We've turned off the ability to report issues directly on this repo and do not monitor PRs.
+
+Provide feedback here: https://aka.ms/provide-feedback
+
+Or, if you are a trainer with a microsoft.com email address, please create a ticket in AzDO.
+
 # MB-280T02：使用 Dynamics 365 Sales 为销售人员赋能
 
 此存储库包含用于 Microsoft 技能内容的练习和支持文件。
